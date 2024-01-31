@@ -3,6 +3,7 @@
 
 # These people are the default owners for everything in the repo.
 * @haripratapreddy
+* @haripratapreddyk
 
 <!-- # Order is important. The last matching pattern takes the most precedence.
 # This means @doc-owner will be requested for review when changes are
